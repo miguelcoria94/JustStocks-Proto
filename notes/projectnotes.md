@@ -4,15 +4,15 @@ Solo React Project Steps
 
 1. This repo has the backend and frontend - All the npm packages you need are already installed.
 
-2. use the "create-react-app" command from inside the 'frontend' folder to initialize React inside of the 'frontend' folder.
+2. use the "create-react-app" command from inside the 'frontend' folder to initialize React inside of the 'frontend' folder. I am using the simple app academy template.
 
-3. All the Frontend is inside the client folder - CD into it and npm install (this will install all the react npm packages)
+3. All the Frontend is inside the frontend folder.
 
-4. You are now ready to start
+4. All the Backend is inside the backend folder.
 
-5. In order to connect the frontend with the backend you have to "npm start" on both the root directory and cd into the "client" folder and "npm start" there too. Don't worry about doing it now. You have to setup the DB first. They are two seperate things and need to both be on to talk to each other.
+5. I also created a folder to test and experiment with css, I could use figma but I find testing with live server is better. Espcecially since I'm only going to be working with vanilla css.
 
-6. Let me try and explain some shit first. Idk if I'm 100% sure so take what I say with a grain of salt.
+6. In order to connect the frontend with the backend you have to "npm start" on both the root directory and cd into the "client" folder and "npm start" there too. Don't worry about doing it now. You have to setup the DB first. They are two seperate things and need to both be on to talk to each other.
 
 7. Dont touch anything on the ./bin/www file - remember the bin folder is a common Unix convention for naming a folder that contains executable code. Even though it is lacking the .js file extension, the www file is actually a JS module that contains code to start up the express app.
 
