@@ -2,10 +2,9 @@
 Solo React Project Steps
 </h1>
 
-
 1. This repo has the backend and frontend - All the npm packages you need are already installed.
 
-2. Make sure you "npm install" in the root of the folder - this will install all the dependacies for the backend.
+2. use the "create-react-app" command from inside the 'frontend' folder to initialize React inside of the 'frontend' folder.
 
 3. All the Frontend is inside the client folder - CD into it and npm install (this will install all the react npm packages)
 
