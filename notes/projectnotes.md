@@ -1,3 +1,8 @@
+<h1 align="center">
+Solo React Project Steps
+</h1>
+
+
 1. This repo has the backend and frontend - All the npm packages you need are already installed.
 
 2. Make sure you "npm install" in the root of the folder - this will install all the dependacies for the backend.
